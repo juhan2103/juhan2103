@@ -18,6 +18,5 @@
   
   [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link=https://scientific-knot-ba1.notion.site/af1f5954260f481faa142dcda2ac74a4?pvs=4)](https://scientific-knot-ba1.notion.site/af1f5954260f481faa142dcda2ac74a4?pvs=4)
   [![Naver Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlawngks9809@naver.com)](mailto:rlawngks9809@naver.com)
-  <br><br>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhan2103%2Fhit-counter&title=Today/Total&edge_flat=false)](https://hits.seeyoufarm.com)                                         
+  <br><br>                             
 </div>
