@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link=https://scientific-knot-ba1.notion.site/af1f5954260f481faa142dcda2ac74a4?pvs=4)](https://scientific-knot-ba1.notion.site/af1f5954260f481faa142dcda2ac74a4?pvs=4)
+  [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link=https://scientific-knot-ba1.notion.site/af1f5954260f481faa142dcda2ac74a4?pvs=4)](https://app.notion.com/p/414f1e9dabe281568f86dc5af4ca6802?source=copy_link)
   [![Naver Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlawngks9809@naver.com)](mailto:rlawngks9809@naver.com)
   <br><br>                             
 </div>
